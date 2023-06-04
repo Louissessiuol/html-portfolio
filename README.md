@@ -1,2 +1,2 @@
-# html-portfolio-2
+# html-portfolio
 A simple html portfolio project
